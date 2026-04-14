@@ -28,8 +28,6 @@ This project allows users to manage daily tasks with full CRUD functionality.
 
 ---
 
-## 📂 Project Structure
-تمام 🔥 ده README احترافي جاهز Copy/Paste لمشروعك:
 
 # 📌 Todo List Application
 
